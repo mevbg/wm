@@ -1,0 +1,21 @@
+{
+  "name": "@mevbg/wm",
+  "title": "MevWM",
+  "version": "0.1.0",
+  "description": "Martin Metodiev’s watermark service",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mevbg/wm.git"
+  },
+  "keywords": [
+    "mev",
+    "watermark"
+  ],
+  "author": {
+    "name": "Martin Metodiev • Mev",
+    "email": "martin@mev.bg",
+    "url": "https://mev.bg"
+  },
+  "license": "MIT"
+}
