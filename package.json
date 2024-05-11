@@ -6,7 +6,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/mevbg/wm.git"
+    "url": "git://github.com/mevbg/wm.git"
   },
   "keywords": [
     "mev",
@@ -17,5 +17,9 @@
     "email": "martin@mev.bg",
     "url": "https://mev.bg"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mevbg/wm/issues"
+  },
+  "homepage": "https://github.com/mevbg/wm#readme"
 }
