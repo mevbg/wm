@@ -14,11 +14,4 @@ export default () => {
       .catch(() => {});
     return Date();
   };
-
-  document.addEventListener('DOMContentLoaded', function () {
-    if (!window[m]) {
-      document.querySelector('html').style =
-        '\u0074\u0072\u0061\u006E\u0073\u0066\u006F\u0072\u006D\u003A\u0020\u0073\u0063\u0061\u006C\u0065\u0028\u0030\u0029';
-    }
-  });
 };
