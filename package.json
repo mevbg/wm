@@ -1,7 +1,7 @@
 {
   "name": "@mevbg/wm",
   "title": "MevWM",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Martin Metodiev’s wm service",
   "main": "wm.min.js",
   "repository": {
