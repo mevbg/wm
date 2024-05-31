@@ -1,7 +1,7 @@
 {
   "name": "@mevbg/wm",
   "title": "MevWM",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Martin Metodiev’s watermark service",
   "main": "index.js",
   "repository": {
