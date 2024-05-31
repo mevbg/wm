@@ -2,4 +2,4 @@
 
 ## Description
 
-Martin Metodiev’s watermark service
+Martin Metodiev’s wm service
